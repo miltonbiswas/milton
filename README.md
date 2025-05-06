@@ -1,11 +1,12 @@
 # <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-darkgreen.svg)](https://github.com/miltonbiswasdev/your-portfolio)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-brightgreen)](https://miltonbiswas.github.io/milton/#home)
+[![Author](https://img.shields.io/badge/Author-Milton%20Biswas-blueviolet.svg)](https://www.instagram.com/miltonbiswasx)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-May%202024-yellow.svg)](https://github.com/https://miltonbiswas.github.io/milton/#home)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://miltonbiswas.github.io/milton/#homeblob/main/LICENSE)
+
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/miltonbiswas/milton/blob/main/Screenshot%202025-05-03%20115540.png">
 
