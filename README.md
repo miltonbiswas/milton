@@ -4,7 +4,7 @@
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-darkgreen.svg)](https://github.com/miltonbiswasdev/your-portfolio)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-brightgreen)](https://miltonbiswas.github.io/milton/#home)
 [![Author](https://img.shields.io/badge/Author-Milton%20Biswas-blueviolet.svg)](https://www.instagram.com/miltonbiswasx)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-May%202024-yellow.svg)](https://github.com/https://miltonbiswas.github.io/milton/#home)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-May%202025-yellow.svg)](https://github.com/https://miltonbiswas.github.io/milton/#home)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://miltonbiswas.github.io/milton/#homeblob/main/LICENSE)
 
 
